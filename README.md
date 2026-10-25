@@ -2,6 +2,17 @@
 
 An AI-powered computer vision application developed using Python and pretrained deep learning models. It allows users to upload images, classify their contents, and generate natural-language captions through an interactive web interface.
 
+## Application Screenshots
+
+## Image Classification
+
+![AI Image Classification - Screenshot 1](screenshots/classification1.png)
+
+![AI Image Classification - Screenshot 2](screenshots/classification2.png)
+
+## Image Captioning
+
+![AI Image Captioning](screenshots/captioning.png)
 ## Features
 
 - **Image Classification:** Predicts the top five possible labels for an uploaded image.
